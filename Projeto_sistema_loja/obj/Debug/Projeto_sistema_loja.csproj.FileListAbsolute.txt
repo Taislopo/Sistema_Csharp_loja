@@ -42,3 +42,5 @@ C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\
 C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\Debug\Projeto_sistema_loja.exe
 C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\Debug\Projeto_sistema_loja.pdb
 C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\Debug\Projeto_sistema_loja.exe.config
+C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\Debug\Projeto_sistema_loja.CadastroFornecedor.resources
+C:\Users\tais.clopes\source\repos2\Sistema_Csharp_loja\Projeto_sistema_loja\obj\Debug\Projeto_sistema_loja.Cadastro_cliente.resources

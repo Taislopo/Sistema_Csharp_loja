@@ -41,5 +41,17 @@ namespace Projeto_sistema_loja
             Imprimir_Produto imprimir_Produto = new Imprimir_Produto();
             imprimir_Produto.Show();    
         }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            Cadastro_cliente cadastro_Cliente = new Cadastro_cliente();
+            cadastro_Cliente.Show();
+        }
+
+        private void toolStripButton3_Click_2(object sender, EventArgs e)
+        {
+            CadastroFornecedor cadastroFornecedor = new CadastroFornecedor();
+            cadastroFornecedor.Show();
+        }
     }
 }

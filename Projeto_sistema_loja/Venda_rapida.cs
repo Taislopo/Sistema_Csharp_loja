@@ -37,7 +37,7 @@ namespace Projeto_sistema_loja
                 try
                 {
                     conexao.Open();
-                    string query = "INSERT INTO tb_produto (id, codigo_barra, descricao,quantidade, valor_unidade, preco_venda, validade, marca, sabor) VALUES (@id, @codigo_barra, @descricao,@quantidade, @valor_unidade, @preco_venda, @validade, @marca, @sabor)";
+                    string query = "INSERT INTO tb_produto ( codigo_barra, descricao,quantidade, valor_unidade, preco_venda, validade, marca, sabor) VALUES ( @codigo_barra, @descricao,@quantidade, @valor_unidade, @preco_venda, @validade, @marca, @sabor)";
 
 
                     MySqlCommand comando = new MySqlCommand(query, conexao);
