@@ -37,17 +37,50 @@ namespace Projeto_sistema_loja
         {
 
 
-            
-            if (string.IsNullOrWhiteSpace(textBoxNome.Text))
+
+
+    if (string.IsNullOrWhiteSpace(textBoxNome.Text))
             {
                 MessageBox.Show("Por favor, preencha o nome.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            
                 textBoxNome.Focus();
-              
                 return;
             }
 
 
+
+            if (string.IsNullOrWhiteSpace(textBoxCnpj.Text))
+            {
+                MessageBox.Show("Por favor, preencha o CNPJ.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBoxCnpj.Focus();
+                return;
+            }
+
+            if (textBoxCnpj.Text.Length != 14 && !System.Text.RegularExpressions.Regex.IsMatch(textBoxCnpj.Text, @"^\d{2}\.\d{3}\.\d{3}/\d{4}-\d{2}$"))
+            {
+                MessageBox.Show("O CNPJ deve ter 14 dígitos.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBoxCnpj.Focus();
+                return;
+            }
+
+
+            
+            if (string.IsNullOrWhiteSpace(textBoxTelefone.Text))
+            {
+                MessageBox.Show("Por favor, preencha o telefone.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBoxTelefone.Focus();
+                return;
+            }
+
+           
+            int telefone = int.Parse(textBoxTelefone.Text);
+      
+            if (!int.TryParse(textBoxTelefone.Text, out telefone))
+            {
+                MessageBox.Show("O telefone deve conter apenas números.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBoxTelefone.Focus();
+                return;
+            }
+          
             if (string.IsNullOrWhiteSpace(textBoxEmail.Text))
             {
                 MessageBox.Show("Por favor, preencha o email.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -55,18 +88,17 @@ namespace Projeto_sistema_loja
                 return;
             }
 
-            
             if (!textBoxEmail.Text.Contains("@"))
             {
                 MessageBox.Show("O email deve conter '@'.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 textBoxEmail.Focus();
                 return;
             }
-       
+
+
 
             string nome = textBoxNome.Text;
             string cnpj = textBoxCnpj.Text;
-            int telefone = int.Parse(textBoxTelefone.Text);
             string email = textBoxEmail.Text;
 
             string conexaoBanco = "server=localhost;user=root;password=;database=db_sistema_loja";

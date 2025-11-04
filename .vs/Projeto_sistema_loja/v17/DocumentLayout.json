@@ -1,41 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\",
+  "WorkspaceRootPath": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\tais.clopes\\source\\repos2\\sistema_csharp_loja\\projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\user01\\documents\\tais lic\u00E7\u00F5es\\validar_script\\sistema_csharp_loja\\projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\tais.clopes\\source\\repos2\\sistema_csharp_loja\\projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\user01\\documents\\tais lic\u00E7\u00F5es\\validar_script\\sistema_csharp_loja\\projeto_sistema_loja\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\user01\\documents\\tais lic\u00E7\u00F5es\\validar_script\\sistema_csharp_loja\\projeto_sistema_loja\\consultafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\consultafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\tais.clopes\\source\\repos2\\sistema_csharp_loja\\projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\user01\\documents\\tais lic\u00E7\u00F5es\\validar_script\\sistema_csharp_loja\\projeto_sistema_loja\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\user01\\documents\\tais lic\u00E7\u00F5es\\validar_script\\sistema_csharp_loja\\projeto_sistema_loja\\consultafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\consultafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|c:\\users\\tais.clopes\\source\\repos2\\sistema_csharp_loja\\projeto_sistema_loja\\cadastro_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\imprimir_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\venda_rapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\projeto_sistema_loja\\cadastro_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B8D226F-2C51-4638-8806-608DA4D0261B}|Projeto_sistema_loja\\Projeto_sistema_loja.csproj|solutionrelative:projeto_sistema_loja\\cadastro_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,15 +62,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Venda_rapida.cs",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Venda_rapida.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
               "RelativeToolTip": "Projeto_sistema_loja\\Venda_rapida.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,46 +79,112 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consultaFornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\consultaFornecedor.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\consultaFornecedor.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\consultaFornecedor.cs [Design]",
+              "RelativeToolTip": "Projeto_sistema_loja\\consultaFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:37:31.915Z",
+              "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\ConsultaCliente.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\ConsultaCliente.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\ConsultaCliente.cs",
+              "RelativeToolTip": "Projeto_sistema_loja\\ConsultaCliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:46:12.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroFornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\CadastroFornecedor.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs [Design]",
+              "RelativeToolTip": "Projeto_sistema_loja\\CadastroFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:16:08.582Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CadastroFornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\CadastroFornecedor.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
               "RelativeToolTip": "Projeto_sistema_loja\\CadastroFornecedor.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwF8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwF8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:29:47.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ConsultaCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\ConsultaCliente.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\ConsultaCliente.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\ConsultaCliente.cs [Design]",
+              "RelativeToolTip": "Projeto_sistema_loja\\ConsultaCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:45:10.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "consultaFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\consultaFornecedor.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\consultaFornecedor.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\consultaFornecedor.cs",
+              "RelativeToolTip": "Projeto_sistema_loja\\consultaFornecedor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:47:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Form1.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
               "RelativeToolTip": "Projeto_sistema_loja\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvzsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T12:06:30.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto_sistema_loja\\Form1.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto_sistema_loja\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:27:06.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Venda_rapida.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Venda_rapida.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs [Design]",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Venda_rapida.cs [Design]",
               "RelativeToolTip": "Projeto_sistema_loja\\Venda_rapida.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T11:52:32.717Z",
@@ -110,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Imprimir_Produto.cs",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Imprimir_Produto.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
               "RelativeToolTip": "Projeto_sistema_loja\\Imprimir_Produto.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Imprimir_Produto.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Imprimir_Produto.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs [Design]",
+              "ToolTip": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Imprimir_Produto.cs [Design]",
               "RelativeToolTip": "Projeto_sistema_loja\\Imprimir_Produto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T11:27:08.705Z",
@@ -135,39 +217,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastroFornecedor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs",
-              "RelativeDocumentMoniker": "Projeto_sistema_loja\\CadastroFornecedor.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\CadastroFornecedor.cs [Design]",
-              "RelativeToolTip": "Projeto_sistema_loja\\CadastroFornecedor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:16:08.582Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto_sistema_loja\\Form1.cs",
-              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Form1.cs [Design]",
-              "RelativeToolTip": "Projeto_sistema_loja\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T11:27:06.808Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Cadastro_cliente.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Cadastro_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User01\\Documents\\tais lic\u00E7\u00F5es\\validar_script\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Cadastro_cliente.cs",
               "RelativeDocumentMoniker": "Projeto_sistema_loja\\Cadastro_cliente.cs",
               "ToolTip": "C:\\Users\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Cadastro_cliente.cs [Design]",
-              "RelativeToolTip": "Projeto_sistema_loja\\Cadastro_cliente.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tais.clopes\\source\\repos2\\Sistema_Csharp_loja\\Projeto_sistema_loja\\Cadastro_cliente.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:21:06.045Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-04T14:21:06.045Z"
             }
           ]
         }

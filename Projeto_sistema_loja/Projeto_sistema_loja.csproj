@@ -107,6 +107,18 @@
     <Compile Include="Cadastro_cliente.Designer.cs">
       <DependentUpon>Cadastro_cliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="ConsultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaCliente.Designer.cs">
+      <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultaFornecedor.Designer.cs">
+      <DependentUpon>consultaFornecedor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -132,6 +144,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Cadastro_cliente.resx">
       <DependentUpon>Cadastro_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaCliente.resx">
+      <DependentUpon>ConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultaFornecedor.resx">
+      <DependentUpon>consultaFornecedor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

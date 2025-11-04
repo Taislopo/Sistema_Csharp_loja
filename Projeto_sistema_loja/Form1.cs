@@ -44,14 +44,20 @@ namespace Projeto_sistema_loja
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-            Cadastro_cliente cadastro_Cliente = new Cadastro_cliente();
-            cadastro_Cliente.Show();
+            ConsultaCliente consulta_Cliente = new ConsultaCliente();
+            consulta_Cliente.Show();
         }
 
         private void toolStripButton3_Click_2(object sender, EventArgs e)
         {
             CadastroFornecedor cadastroFornecedor = new CadastroFornecedor();
             cadastroFornecedor.Show();
+        }
+
+        private void toolStripButton4_Click(object sender, EventArgs e)
+        {
+            consultaFornecedor consulta_Fornecedor = new consultaFornecedor();
+            consulta_Fornecedor.Show();
         }
     }
 }
