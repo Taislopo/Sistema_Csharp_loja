@@ -35,5 +35,11 @@ namespace Projeto_sistema_loja
         private void toolTip1_Popup(object sender, PopupEventArgs e)
         {
                     }
+
+        private void toolStripButton5_Click(object sender, EventArgs e)
+        {
+            Imprimir_Produto imprimir_Produto = new Imprimir_Produto();
+            imprimir_Produto.Show();    
+        }
     }
 }
